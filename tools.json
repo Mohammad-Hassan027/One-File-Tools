@@ -121,6 +121,28 @@
       "status": "live"
     },
     {
+      "id": "favicon-generator",
+      "name": "Favicon Generator",
+      "shortDescription": "Generate a complete favicon pack and integration tags from any image, offline.",
+      "longDescription": "## Favicon Generator\n\nA client-side tool that turns any image into a full favicon pack — no server, no upload.\n\n### Features\n\n- Generates 7 sizes (16, 32, 48, 64, 180, 192, 512px)\n- Center-crop auto-resize via Canvas\n- Live preview grid with individual downloads\n- Ready-to-paste HTML `<link>` tags\n- One-click ZIP export of the full pack\n- Works completely offline",
+      "category": "utilities",
+      "tags": [
+        "developer-tools",
+        "favicon",
+        "generator",
+        "image",
+        "offline"
+      ],
+      "techStack": [
+        "Canvas API",
+        "CSS3",
+        "HTML5",
+        "Vanilla JS"
+      ],
+      "difficulty": "Easy",
+      "status": "live"
+    },
+    {
       "id": "json-formatter",
       "name": "JSON Formatter",
       "shortDescription": "Format, validate, and minify JSON locally in your browser.",
