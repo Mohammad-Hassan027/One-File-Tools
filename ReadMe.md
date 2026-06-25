@@ -35,9 +35,10 @@ Every tool in this collection is a standalone `.html` file containing all the HT
 | 3 | [Clip Path Generator](tools/clip-path-generator.html) | CSS Tools | Visually create complex CSS clip-path shapes and instantly copy the generated code. | [Try it](https://one-file-tools.pages.dev/tools/clip-path-generator) |
 | 4 | [Favicon Generator](tools/favicon-generator.html) | Developer Utilities | Generate a complete favicon pack and integration tags from any image, offline. | [Try it](https://one-file-tools.pages.dev/tools/favicon-generator) |
 | 5 | [GitHub Token Validator Plain](tools/github-token-validator-plain.html) | Developer Utilities | Validate GitHub personal access tokens with a plain terminal-style interface. | [Try it](https://one-file-tools.pages.dev/tools/github-token-validator-plain) |
-| 6 | [JSON Formatter](tools/json-formatter.html) | JSON & API | Format, validate, and minify JSON locally in your browser. | [Try it](https://one-file-tools.pages.dev/tools/json-formatter) |
-| 7 | [Open Graph Inspector](tools/open-graph-inspector.html) | Web & SEO | Analyze meta tags, social previews, and SEO metadata for any URL with actionable scores. | [Try it](https://one-file-tools.pages.dev/tools/open-graph-inspector) |
-| 8 | [UUID Generator](tools/uuid-generator.html) | Developer Utilities | Generate random v4 UUIDs instantly, offline. | [Try it](https://one-file-tools.pages.dev/tools/uuid-generator) |
+| 6 | [Glassmorphism Generator](‎tools/glassmorphism-generator.html‎) | CSS Tools | Create Frosted Glass Effects for your components. | [Try it](https://one-file-tools.pages.dev/tools/glassmorphism-generator) |
+| 7 | [JSON Formatter](tools/json-formatter.html) | JSON & API | Format, validate, and minify JSON locally in your browser. | [Try it](https://one-file-tools.pages.dev/tools/json-formatter) |
+| 8 | [Open Graph Inspector](tools/open-graph-inspector.html) | Web & SEO | Analyze meta tags, social previews, and SEO metadata for any URL with actionable scores. | [Try it](https://one-file-tools.pages.dev/tools/open-graph-inspector) |
+| 9 | [UUID Generator](tools/uuid-generator.html) | Developer Utilities | Generate random v4 UUIDs instantly, offline. | [Try it](https://one-file-tools.pages.dev/tools/uuid-generator) |
 
 
 > **Want to see your tool here?** Check out the [Contributing Guide](Contributing.md) and pick an idea from the [Ideas Board](#ideas-board).
